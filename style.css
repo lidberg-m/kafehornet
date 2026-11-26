@@ -1,0 +1,31 @@
+/* Kafe Hörnet: färger och typsnitt */
+
+* {
+  box-sizing: border-box;
+}
+
+
+body {
+    font-family: system-ui, Helvetica, Arial, sans-serif;
+    line-height: 1,6;
+    color: #2B2118;
+    background-color: #FBF7F2;
+}
+
+main {
+  max-width: 1100px
+  margin: 24px
+  padding: 12px 24px
+
+}
+.button {
+  display: inline-block;
+  padding: 12px 24px;
+  font-size: 
+  font-weight: 
+  color: #ffffff;
+  text-decoration: none;
+  background-color:#B5502B;
+  border: 0;
+  border-radius: 8px;
+}

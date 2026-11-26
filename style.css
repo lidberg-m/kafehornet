@@ -36,3 +36,13 @@ main {
 .card {
   flex: 1;
 }
+
+.menyn {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+}
+
+.menyn li {
+  display: block;
+}

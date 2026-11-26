@@ -29,3 +29,10 @@ main {
   border: 0;
   border-radius: 8px;
 }
+.cardparent {
+  display: flex;
+}
+
+.card {
+  flex: 1;
+}

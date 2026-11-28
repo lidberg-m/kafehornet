@@ -19,7 +19,11 @@ body {
 main {
   max-width: 1100px;
   margin: 0 auto;
+  
+  a {
+  color: #b5502b;
 }
+
 .button {
   display: inline-block;
   padding: 12px 24px;
